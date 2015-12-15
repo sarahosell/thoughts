@@ -1,0 +1,2 @@
+# thoughts
+My First GitHub!
